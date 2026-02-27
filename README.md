@@ -1,2 +1,3 @@
 # Manual-do-Aluno
 ## SENAI-SP
+### O Manual do Aluno é um guia informativo para conhecer a política, recursos, informações, metodologia de cursos, história, funcionamento e mais. É essencial para saber como agir dentro da escola e entender nossos direitos e deveres como estudantes. Ao ler o manual, conheci melhor o SENAI-SP e percebi que é uma instituição muito respeitada, com mais de 80 anos de história, voltada para a formação profissional e para o desenvolvimento da indústria. Achei interessante saber que a metodologia une teoria e prática, preparando os alunos para situações reais do mercado de trabalho.
